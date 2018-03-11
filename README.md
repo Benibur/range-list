@@ -1,8 +1,8 @@
 # RANGE-LIST
 
 A vanila js, heavy tested, library to manage a list of ranges.
-[ [a,b], [c, d], ... [m,n] ]
-where a < b < c ... < m < n
+* [ [a,b], [c, d], ... [m,n] ]
+* where a < b < c ... < m < n
 
 ## Usage :
 * add the following files to your code (no other dependencies) :
