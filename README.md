@@ -1,7 +1,7 @@
 # RANGE-LIST
 
 A vanila js, heavy tested, library to manage a list of ranges.
-* [ [a,b], [c, d], ... [m,n] ]
+* a list of range is : [ [a,b], [c, d], ... [m,n] ]
 * where a < b < c ... < m < n
 
 ## Usage :
